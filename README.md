@@ -1,5 +1,7 @@
 # vue-crud
 
+####[Tutorial](https://dev.to/oktadev/build-a-basic-crud-app-with-vuejs-and-node-4cl8)
+
 ## Project setup
 ```
 yarn install
